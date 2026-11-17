@@ -24,7 +24,7 @@ repositories:
 
 website: "https://kubeelasti.dev"
 
-artwork: "https://landscape.cncf.io/logos/kubeelasti.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kubeelasti"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
